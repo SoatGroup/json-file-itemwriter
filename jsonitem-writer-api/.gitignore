@@ -3,5 +3,5 @@
 .project
 .settings
 bin
-*/target/*
+target
 build/
