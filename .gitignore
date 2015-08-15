@@ -1,0 +1,4 @@
+#Resources to ignore 
+.classpath
+.project
+.settings
